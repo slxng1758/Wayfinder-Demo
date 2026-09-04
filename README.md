@@ -1,6 +1,7 @@
 WayFinder
 ===
 Summer 2025 demo version, 2 hospital sites
+Check out the full website at shn.ca
 
 ## Usage
 
